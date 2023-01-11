@@ -9,6 +9,8 @@
     <version>1.0</version>
     <modules>
         <module>message</module>
+        <module>weather</module>
+        <module>Center</module>
     </modules>
 
     <properties>
